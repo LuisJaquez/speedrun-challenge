@@ -6,7 +6,7 @@ Add an entry here for each speedrun you undertake
 
 | Speedrun | Start Date | End Date | Projects Completed | Completed Portfolio |
 | -------- | ---------- | -------- | ------------------ | ------------------- |
-|          |            |          |                    |                     |
+| Frontend Speedrun | May 10 | June 9 |                    |                     |
 |          |            |          |                    |                     |
 |          |            |          |                    |                     |
 |          |            |          |                    |                     |
