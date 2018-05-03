@@ -16,9 +16,9 @@ Projects Completed: 0
 
 | Project                                                                                     | Complete Date | Blog Post | Code Link | Demo |
 | ------------------------------------------------------------------------------------------- | ------------- | --------- | --------- | ---- |
-| [Build a Tribute Page](./fcc/frontend/tribute-page)                                         |               |           |           |      |
-| [Build a Personal Portfolio Webpage](./fcc/frontend/portfolio)                              |               |           |           |      |
-| [Build a Random Quote Machine](./fcc/frontend/random-quote-machine)                         |               |           |           |      |
+| [Build a Tribute Page](./fcc/frontend/tribute-page)                                         | Before Speedrun |           |           |      |
+| [Build a Personal Portfolio Webpage](./fcc/frontend/portfolio)                              | Before Speedrun |           |           |      |
+| [Build a Random Quote Machine](./fcc/frontend/random-quote-machine)                         | Before Speedrun |           |           |      |
 | [Show the Local Weather](./fcc/frontend/local-weather)                                      |               |           |           |      |
 | [Build a Wikipedia Viewer](./fcc/frontend/wikipedia-viewer)                                 |               |           |           |      |
 | [Use the Twitch.tv JSON API](./fcc/frontend/twitch-client)                                  |               |           |           |      |
